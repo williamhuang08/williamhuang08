@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm William Huang 🦾
 
-<!--
-**williamhuang08/williamhuang08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS + Math @ Yale • 🤖 Robotics • 🩺 ML/CV Research  
+I build ML systems for real-world problems—robotics, vision, and data-heavy products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technologies I’m familiar with
+
+### Languages
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-000?logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-000?logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-000?logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-000?logo=r&logoColor=white)
+
+### ML / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-000?logo=openai&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-000?logo=weightsandbiases&logoColor=white)
+
+### Tools / Platforms
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-000?logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-000?logo=nvidia&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-000?logo=opengl&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-000?logo=linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?logo=rubyonrails&logoColor=white)
+
+---
+
+## 🔭 What I’m working on
+- EM-trained temporally/state-abstracted world models + policies for robotics tasks (AntMaze, Kitchen-Franka)
+- LLM/RAG tooling + evaluation pipelines
+- Computer vision systems for real-world sensing
+
+---
+
+## 📌 Featured Projects
+- **Project Name** — one-line what it does (link)
+- **Project Name** — one-line what it does (link)
+- **Project Name** — one-line what it does (link)
+
+---
+
+## 🤝 Connect
+- Email: **william.huang@yale.edu**
+- LinkedIn: **https://linkedin.com/in/william-08-huang**
