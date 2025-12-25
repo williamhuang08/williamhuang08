@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Will 🦾</h1>
 
 
-🎓 CS + Math @ Yale • 🤖 Robotics • 🧠 ML/CV Research  
+🎓 CS + Math @ Yale • 🤖 Robotics/AV • 🧠 ML/CV Research  
 I build ML systems for real-world problems—robotics, vision, and data-heavy products.
 
 ---
