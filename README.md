@@ -1,6 +1,9 @@
+<p align="center">
 # Hi, I'm William Huang 🦾
+</p>
 
-🎓 CS + Math @ Yale • 🤖 Robotics • 🩺 ML/CV Research  
+
+🎓 CS + Math @ Yale • 🤖 Robotics • 🧠 ML/CV Research  
 I build ML systems for real-world problems—robotics, vision, and data-heavy products.
 
 ---
