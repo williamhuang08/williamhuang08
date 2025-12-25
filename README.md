@@ -43,20 +43,13 @@ I enjoy building ML systems for real-world problems in robotics, vision, and aut
 
 ---
 
-## 🔭 What I’m working on
-- EM-trained temporally/state-abstracted world models + policies for robotics tasks (AntMaze, Kitchen-Franka)
-- LLM/RAG tooling + evaluation pipelines
-- Computer vision systems for real-world sensing
-
----
-
-## 📌 Featured Projects
-- **Project Name** — one-line what it does (link)
+## 📌 What I've worked one
+- **Learning Temporally and State-Abstracted World Models** — one-line what it does ([link](https://github.com/williamhuang08?tab=repositories))
 - **Project Name** — one-line what it does (link)
 - **Project Name** — one-line what it does (link)
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect with me!
 - Email: **william.huang@yale.edu**
 - LinkedIn: **https://linkedin.com/in/william-08-huang**
