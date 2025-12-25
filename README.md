@@ -43,9 +43,9 @@ I enjoy building ML systems for real-world problems in robotics, vision, and aut
 
 ---
 
-## 📌 What I've worked one
-- **Learning Temporally and State-Abstracted World Models** — exploring the synergies gained with temporal and state abstraction in RL for robotic tasks ([Link](https://github.com/williamhuang08/Learning-Temporal-World-Models))
-- **Project Name** — one-line what it does (link)
+## 📌 What I've been working one
+- **Learning Temporally and State-Abstracted World Models** — investigating the synergies gained with temporal and state abstraction in RL for robotic tasks ([Link](https://github.com/williamhuang08/Learning-Temporal-World-Models))
+- **VLMs for Generative Design-for-Robot-Assembly** — explored an extension of ([Blox-Net](https://ieeexplore.ieee.org/document/11127489)) by simulating an additional geometric primitive and performing perturbation analysis ([Link](https://github.com/williamhuang08/Blox-Net-Extended))
 - **Project Name** — one-line what it does (link)
 
 ---
