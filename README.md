@@ -2,7 +2,7 @@
 
 
 🎓 CS + Math @ Yale • 🤖 Robotics/AV • 🧠 ML/CV Research  
-I build ML systems for real-world problems—robotics, vision, and data-heavy products.
+I enjoy building ML systems for real-world problems in robotics, vision, and autonomous vehicles.
 
 ---
 
