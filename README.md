@@ -1,5 +1,5 @@
 <p align="center">
-  **Hi, I'm William Huang 🦾**
+  <strong>Hi, I'm William Huang 🦾</strong>
 </p>
 
 
