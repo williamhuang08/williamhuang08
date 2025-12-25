@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm William Huang 🦾</h1>
+<h1 align="center">Hi, I'm Will 🦾</h1>
 
 
 🎓 CS + Math @ Yale • 🤖 Robotics • 🧠 ML/CV Research  
