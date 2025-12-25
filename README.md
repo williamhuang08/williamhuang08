@@ -44,7 +44,7 @@ I enjoy building ML systems for real-world problems in robotics, vision, and aut
 ---
 
 ## 📌 What I've worked one
-- **Learning Temporally and State-Abstracted World Models** — exploring the synergies gained with temporal and state abstraction in RL for robotic tasks ([Link]https://github.com/williamhuang08/Learning-Temporal-World-Models)
+- **Learning Temporally and State-Abstracted World Models** — exploring the synergies gained with temporal and state abstraction in RL for robotic tasks ((Link)https://github.com/williamhuang08/Learning-Temporal-World-Models)
 - **Project Name** — one-line what it does (link)
 - **Project Name** — one-line what it does (link)
 
