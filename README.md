@@ -13,7 +13,7 @@ I enjoy building ML systems for real-world problems in robotics, vision, and aut
 
 ---
 
-## 🧰 Technologies I’m familiar with
+## Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
